@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="songs.css"?>
+
+<Songs> 
+	<heading> Record of Songs </heading>
+	<Song>
+		<artistName>
+			<FirstName> Troye </FirstName>
+			<LastNAme> Sivan </LastNAme>
+		</artistName>
+		<title> Youth </title>
+		<genre> Pop </genre>
+		<year> 2015 </year>
+	</Song>
+	<Song>
+		<artistName>
+			<FirstName> Silk </FirstName>
+			<LastNAme> Sonic </LastNAme>
+		</artistName>
+		<title> Leave the Door Open </title>
+		<genre> Soul </genre>
+		<year> 2021 </year>
+	</Song>
+	<Song>
+		<artistName>
+			<FirstName> Cardi </FirstName>
+			<LastNAme> B </LastNAme>
+		</artistName>
+		<title> Up </title>
+		<genre> Hip Hop </genre>
+		<year> 2021 </year>
+	</Song>
+	<Song>
+		<artistName>
+			<FirstName> Billie </FirstName>
+			<LastNAme> Eilish </LastNAme>
+		</artistName>
+		<title> Your Power </title>
+		<genre> Alternative </genre>
+		<year> 2021 </year>
+	</Song>
+	<Song>
+		<artistName>
+			<FirstName> Olivia </FirstName>
+			<LastNAme> Rodrigo </LastNAme>
+		</artistName>
+		<title> Good 4 U </title>
+		<genre> Pop Rock </genre>
+		<year> 2021 </year>
+	</Song>
+	<Song>
+		<artistName>
+			<FirstName> Japanese </FirstName>
+			<LastNAme> Breakfast </LastNAme>
+		</artistName>
+		<title> Be Sweet </title>
+		<genre> Alternative </genre>
+		<year> 2021 </year>
+	</Song>
+	<Song>
+		<artistName>
+			<FirstName> Jessie </FirstName>
+			<LastNAme> Ware </LastNAme>
+		</artistName>
+		<title> Please </title>
+		<genre> Pop </genre>
+		<year> 2021 </year>
+	</Song>
+	<Song>
+		<artistName>
+			<FirstName> Glass </FirstName>
+			<LastNAme> Animals </LastNAme>
+		</artistName>
+		<title> Heat Waves </title>
+		<genre> Pop </genre>
+		<year> 2021 </year>
+	</Song>
+	<Song>
+		<artistName>
+			<FirstName> Taylor </FirstName>
+			<LastNAme> Swift </LastNAme>
+		</artistName>
+		<title> Mr. Perfectly Fine </title>
+		<genre> Country Pop </genre>
+		<year> 2021 </year>
+	</Song>
+	<Song>
+		<artistName>
+			<FirstName> Kali </FirstName>
+			<LastNAme> Uchis </LastNAme>
+		</artistName>
+		<title> Telepatia </title>
+		<genre> Pop </genre>
+		<year> 2021 </year>
+	</Song>	
+</Songs>
